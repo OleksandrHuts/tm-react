@@ -1,0 +1,12 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+
+    .card {
+        width: 22.5%;
+        padding: 10px;
+        background-color: #fff;
+    }
+}
